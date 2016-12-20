@@ -1,0 +1,25 @@
+PODS:
+  - DZPlayer-iOS (0.1.0)
+  - FFMpeg-iOS-Libs (2.8.3):
+    - FFMpeg-iOS-Libs/precompiled (= 2.8.3)
+  - FFMpeg-iOS-Libs/precompiled (2.8.3)
+
+DEPENDENCIES:
+  - DZPlayer-iOS (from `../Bizs/DZPlayer-iOS`)
+  - FFMpeg-iOS-Libs (from `../Libs/FFMpeg-iOS-Libs`)
+
+EXTERNAL SOURCES:
+  DZPlayer-iOS:
+    :path: !ruby/object:Pathname
+    path: "../Bizs/DZPlayer-iOS"
+  FFMpeg-iOS-Libs:
+    :path: !ruby/object:Pathname
+    path: "../Libs/FFMpeg-iOS-Libs"
+
+SPEC CHECKSUMS:
+  DZPlayer-iOS: e4bc7cd062c95ef54feca31e52610cd3ed964eb4
+  FFMpeg-iOS-Libs: eec6ee4a6a4a0764455fb0fb12366b4d8cd7262a
+
+PODFILE CHECKSUM: 1d62bce9870129237bd07445247d70ec739f1769
+
+COCOAPODS: 1.2.0.beta.1

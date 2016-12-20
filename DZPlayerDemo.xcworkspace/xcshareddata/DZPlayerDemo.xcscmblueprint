@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AFA3878A542D66125388B1F9F7D4E4F47A8CE9DC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AFA3878A542D66125388B1F9F7D4E4F47A8CE9DC" : 9223372036854775807,
+    "1DD8B91BCC3817B0DC19AB3DB6D07ADD981EC9D9" : 9223372036854775807,
+    "9963164E6B323622CE2CE85F47133B7B74299C67" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C367D14F-8243-48D1-9A45-E3F2E6895396",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AFA3878A542D66125388B1F9F7D4E4F47A8CE9DC" : "Demo\/",
+    "1DD8B91BCC3817B0DC19AB3DB6D07ADD981EC9D9" : "Bizs\/DZPlayer-iOS\/",
+    "9963164E6B323622CE2CE85F47133B7B74299C67" : "Libs\/FFMpeg-iOS-Libs\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DZPlayerDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DZPlayerDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yishuiliunian\/DZPlayer-iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1DD8B91BCC3817B0DC19AB3DB6D07ADD981EC9D9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yishuiliunian\/FFMpeg-iOS-Libs",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9963164E6B323622CE2CE85F47133B7B74299C67"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yishuiliunian\/DZPlayerDemo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AFA3878A542D66125388B1F9F7D4E4F47A8CE9DC"
+    }
+  ]
+}
